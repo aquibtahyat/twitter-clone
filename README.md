@@ -1,16 +1,20 @@
-# twitter_clone
+# Twitter-Clone
 
-A new Flutter project.
+A clone app with multiple functionalities like Login, Signup, Authentication, Tweet, Image Tweets, links, hashtags etc similar to the Social Media site Twitter
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+## Technologies 
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Appwrite
+- Riverpod
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Features
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Sign Up with Email and Password 
+- Login with Email and Password Authentication
+- Tweeting Texts
+- Tweeting Images
+- Hashtags and Links identification
+- Displaying Tweets
+- Displaying Like, Share, Reshare and Viewcount Bar
