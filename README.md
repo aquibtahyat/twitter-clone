@@ -1,6 +1,6 @@
 # Twitter-Clone
 
-A clone app with multiple functionalities like Login, Signup, Authentication, Tweet, Image Tweets, links, hashtags etc similar to the Social Media site Twitter
+A clone app with multiple functionalities like Login, Signup, Authentication, Tweet, Image Tweets, identifying links and hashtags etc similar to the Social Media site Twitter
 
 
 ## Technologies 
